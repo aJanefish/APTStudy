@@ -1,2 +1,4 @@
+include ':anno'
+include ':apt-complier'
 include ':app'
 rootProject.name = "APTStudy"
