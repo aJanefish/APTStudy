@@ -1,8 +1,12 @@
 package com.example.aptstudy;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.anno.Test;
+
+
+@Test("MainActivity")
 public class MainActivity extends AppCompatActivity {
 
     @Override
